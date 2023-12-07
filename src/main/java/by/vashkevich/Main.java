@@ -1,4 +1,4 @@
-package by.shcherba;
+package by.vashkevich;
 
 public class Main {
     public static void main(String[] args) {
